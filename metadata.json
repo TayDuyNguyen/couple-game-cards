@@ -1,0 +1,5 @@
+{
+  "name": "Card Game Hub AI",
+  "description": "Ứng dụng trò chơi bài thông minh sử dụng Gemini AI để tạo ra hàng ngàn câu hỏi và thử thách kết nối độc đáo.",
+  "requestFramePermissions": []
+}
